@@ -1,1 +1,1 @@
-![Banner](https://github.com/GregTechLite/Brand/blob/main/banner.png)
+<img src="https://github.com/GregTechLite/Brand/blob/main/banner.png" align="center" height="380">
