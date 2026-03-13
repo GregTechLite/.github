@@ -4,7 +4,6 @@ The Github hompage of *GregTech Lite* Modpack for Minecraft.
 
 ---
 
-- **Contributing**: Please checkout our [repositories][repo], and [contributing guide][contributing].
+- **Contributing**: Please check out our [repositories][repo], and [contributing guide](/CONTRIBUTING.md).
 
 [repo]: https://github.com/orgs/GregTechLite/repositories
-[contributing]: https://github.com/GregTechLite/GregTech-Lite-Modpack/blob/main/CONTRIBUTING.md
