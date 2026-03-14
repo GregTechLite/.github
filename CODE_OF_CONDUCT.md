@@ -6,7 +6,7 @@ This is a Code of Conduct for all contributors for the GregTech Lite Modpack and
 it is based on [**Contributor Covenant 2.0**][homepage].
 
 If you believe someone is violating the code of conduct,
-we ask that you report it by emailing [Magic_Sweepy@proton.me](mailto:Magic_Sweepy@proton.me).
+we ask that you report it by emailing [maintainer email](mailto:Magic_Sweepy@proton.me).
 
 ## Our Pledge
 

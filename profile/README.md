@@ -1,6 +1,6 @@
 ![banner](https://github.com/GregTechLite/Brand/blob/main/banner_long.png)
 
-The Github hompage of *GregTech Lite* Modpack for Minecraft.
+The GitHub homepage of *GregTech Lite* Modpack for Minecraft.
 
 ---
 
