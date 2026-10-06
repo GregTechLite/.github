@@ -93,6 +93,7 @@ Available types:
 - `build`
 - `ci`
 - `fix`
+- `docs`
 
 Rules:
 
