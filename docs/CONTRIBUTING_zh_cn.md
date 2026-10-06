@@ -93,6 +93,7 @@ Pull Request 标题必须使用以下格式：
 - `build`
 - `ci`
 - `fix`
+- `docs`
 
 规则：
 
@@ -138,7 +139,7 @@ Pull Request 检查清单：
 
 ### Force Push
 
-通常不允许 force push。仅拥有 maintainer 权限的人员可以执行 force push，且仅限必要时。不要重写共享历史。如果你需要更新 Pull Request，请新增提交或将最新 `main` 合并到你的分支，而不是 force push。
+通常不允许 force push。仅拥有 maintainer 权限的人员可以执行 force push，且仅限必要时。不要重写共享历史。如果您需要更新 Pull Request，请新增提交或将最新 `main` 合并到你的分支，而不是 force push。
 
 ### 如果您是 Member
 
@@ -159,7 +160,7 @@ git switch -c ms/ui-rework
 git push -u origin ms/ui-rework
 ```
 
-### 如果你是外部贡献者
+### 如果您是外部贡献者
 
 如果您没有 member 权限：
 
